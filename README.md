@@ -25,4 +25,4 @@ This course contains 7 introductory lessons to Football Analytics with Python.
 * Statistics and Probability
 * Machine Learning
 
-Created with ❤️ by (Idris Abdulkareem)[https://www.linkedin.com/in/idrisinkedin/]
+Created with ❤️ by [Idris Abdulkareem](https://www.linkedin.com/in/idrisinkedin/)
